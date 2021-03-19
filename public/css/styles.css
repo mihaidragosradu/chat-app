@@ -268,7 +268,7 @@ input {
   display: flex;
   flex-shrink: 0;
   margin-top: 16px;
-  padding: 24px;
+  padding-left: 24px;
 }
 
 .compose form {
